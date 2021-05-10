@@ -10,5 +10,5 @@
 
 
 ![alt text](https://greatscenicrailways.co.uk/wp-content/uploads/2019/04/get-it-on-google-play-store-button.png)
-![Play Store URL](https://play.google.com/store/apps/details?id=com.oceans.shopowner)
+[Play Store URL](https://play.google.com/store/apps/details?id=com.oceans.shopowner)
 
